@@ -122,12 +122,5 @@ Typecheck:
 npm run typecheck
 ```
 
-## Notes and limitations
 
-- All providers, reviews and bookings are mock data created for this project. No backend, database,
-  real authentication, payments or location permissions are used.
-- Profile pictures are optional: providers can upload a photo (Expo Go asks for photo-library
-  access the first time) or keep an illustrated avatar or monogram.
-- Currency is USD and the app is localised for Beirut, Lebanon; the user's location is fixed at
-  Achrafieh, Beirut, with distances pre-set per provider. Provider names, areas, nationalities and
-  demo accounts use Levantine and wider MENA examples.
+
